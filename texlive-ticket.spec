@@ -78,3 +78,16 @@ commands \ticketdefault and \ticket.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.4b-2
++ Revision: 756843
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.4b-1
++ Revision: 719740
+- texlive-ticket
+- texlive-ticket
+- texlive-ticket
+
