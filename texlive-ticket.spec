@@ -6,7 +6,7 @@
 # catalog-version 0.4b
 Name:		texlive-ticket
 Version:	0.4b
-Release:	3
+Release:	4
 Summary:	Make labels, visting-cards, pins with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ticket
