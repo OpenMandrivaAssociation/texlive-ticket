@@ -3,7 +3,7 @@ Version:	42280
 Release:	2
 Summary:	Make labels, visting-cards, pins with LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ticket
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ticket
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ticket.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ticket.doc.r%{version}.tar.xz
